@@ -1,4 +1,4 @@
-## Hi there I'M EdwardM88
+Hi there I'M EdwardM88
 
 I am a Systems Engineering student at TUIASI, passionate about the intersection of hardware and software.  My core focus is on Embedded Systems and Microcontrollers, currently developing hands-on projects with Arduino and various hardware platforms.
 
